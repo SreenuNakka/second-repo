@@ -1,2 +1,3 @@
 print("Hello World")
-print("This is basic")
+
+print("It's basic")
